@@ -1,5 +1,7 @@
-![CI](https://github.com/efrem005/ahj-dom-movements/actions/workflows/web.yml/badge.svg)
+[![DOM Movements](https://github.com/efrem005/ahj-dom-movements/actions/workflows/web.yml/badge.svg)](https://github.com/efrem005/ahj-dom-movements/actions/workflows/web.yml)
 ## [GitHub Page](https://efrem005.github.io/ahj-dom-movements/)
+
+
 
 # Домашнее задание к занятию "2. DOM"
 ---
