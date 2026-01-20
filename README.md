@@ -1,4 +1,4 @@
-![CI](https://github.com/efrem005/ahj-env/actions/workflows/web.yml/badge.svg) 
+![CI](https://github.com/efrem005/ahj-dom-movements/actions/workflows/web.yml/badge.svg) 
 # Домашнее задание к занятию "2. DOM"
 
 ---
